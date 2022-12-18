@@ -1,0 +1,520 @@
+[
+  {
+    "rating": 12,
+    "category": 0,
+    "title": "Комбо рол",
+    "imageLink": "img/roll/комбоРолл.jpg",
+    "price": 190,
+    "mass": "260гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/krivetka.jpg", "Тігрова креветка"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/ogurec.jpg", "Огірок"],
+      ["img/ingredients/forRoll/tobico.jpg", "Ікра тобіко"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/krab.jpg", "Краб"]
+    ]
+  },
+  {
+    "rating": 10,
+    "category": 0,
+    "title": "Каліфорнія",
+    "imageLink": "img/roll/Калифорния.jpg",
+    "price": 160,
+    "mass": "235гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/ogurec.jpg", "Огірок"],
+      ["img/ingredients/forRoll/tobico.jpg", "Ікра тобіко"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/krab.jpg", "Краб"]
+    ]
+  },
+  {
+    "rating": 9,
+    "category": 0,
+    "title": "Новозеландський рол",
+    "imageLink": "img/roll/novozelandskiy.jpg",
+    "price": 220,
+    "mass": "260гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/spajsi.jpg", "Соус спайсі"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/avocado.jpg", "Авокадо"],
+      ["img/ingredients/forRoll/krab.jpg", "Краб"],
+      ["img/ingredients/forRoll/tobico.jpg", "Ікра тобіко"]
+    ]
+  },
+  {
+    "rating": 15,
+    "category": 0,
+    "title": "Філадельфія",
+    "imageLink": "img/roll/filadelphia.jpg",
+    "price": 190,
+    "mass": "260гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/ogurec.jpg", "Огірок"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"]
+    ]
+  },
+  {
+    "rating": 14,
+    "category": 0,
+    "title": "Аляска рол",
+    "imageLink": "img/roll/alyaska.jpg",
+    "price": 260,
+    "mass": "280гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/tobico.jpg", "Ікра тобіко"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"]
+    ]
+  },
+  {
+    "rating": 7,
+    "category": 0,
+    "title": "Канський рол",
+    "imageLink": "img/roll/kannskiy.jpg",
+    "price": 260,
+    "mass": "270гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/tobico.jpg", "Ікра тобіко"],
+      ["img/ingredients/forRoll/ogurec.jpg", "Огірок"],
+      ["img/ingredients/forRoll/krab.jpg", "Краб"]
+    ]
+  },
+  {
+    "rating": 5,
+    "category": 0,
+    "title": "Кентуккі рол",
+    "imageLink": "img/roll/kentukki.png",
+    "price": 170,
+    "mass": "245гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/ogurec.jpg", "Огірок"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/spajsi.jpg", "Соус спайсі"],
+      ["img/ingredients/forRoll/kalmar.jpg", "Кальмар"]
+    ]
+  },
+  {
+    "rating": 8,
+    "category": 0,
+    "title": "Суматра грін",
+    "imageLink": "img/roll/sumatra grin.jpg",
+    "price": 210,
+    "mass": "255гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/ukrop.jpg", " Кріп"]
+    ]
+  },
+  {
+    "rating": 10,
+    "category": 0,
+    "title": "Унагі урамакі",
+    "imageLink": "img/roll/ynagi.jpg",
+    "price": 370,
+    "mass": "280гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/ugor.jpg", "Вугор"],
+      ["img/ingredients/forRoll/kunjut.jpg", "Кунжут"],
+      ["img/ingredients/forRoll/avocado.jpg", "Авокадо"],
+      ["img/ingredients/forRoll/soys unagi.jpg", "Соус унагі"]
+    ]
+  },
+  {
+    "rating": 3,
+    "category": 0,
+    "title": "Дакота",
+    "imageLink": "img/roll/dakota.png",
+    "price": 170,
+    "mass": "250гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/tobico.jpg", "Ікра тобіко"],
+      ["img/ingredients/forRoll/ogurec.jpg", "Огірок"],
+      ["img/ingredients/forRoll/krab.jpg", "Краб"]
+    ]
+  },
+  {
+    "rating": 5,
+    "category": 0,
+    "title": "Корида рол",
+    "imageLink": "img/roll/korida.jpg",
+    "price": 240,
+    "mass": "250гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/ogurec.jpg", "Огірок"],
+      ["img/ingredients/forRoll/bekon.jpg", "Бекон сирокопчений"]
+    ]
+  },
+  {
+    "rating": 10,
+    "category": 0,
+    "title": "Фрайд рол",
+    "imageLink": "img/roll/frayd.png",
+    "price": 109,
+    "mass": "290гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/куриное филе.jpg", "Куряче філе"],
+      ["img/ingredients/forRoll/сир чеддер.jpg", "Сир"],
+      ["img/ingredients/forRoll/koja.jpg", "Смажена шкірочка лосося"]
+    ]
+  },
+  {
+    "rating": 15,
+    "category": 0,
+    "title": "Алабама",
+    "imageLink": "img/roll/alabama.png",
+    "price": 109,
+    "mass": "230гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/kunjut.jpg", "Кунжут"],
+      ["img/ingredients/forRoll/ogurec.jpg", "Огірок"],
+      ["img/ingredients/forRoll/tobico.jpg", "Ікра тобіко"],
+      ["img/ingredients/forRoll/koja.jpg", "Смажена шкірочка лосося"]
+    ]
+  },
+  {
+    "rating": 6,
+    "category": 0,
+    "title": "Чікен лайт",
+    "imageLink": "img/roll/chicken-lite.png",
+    "price": 98,
+    "mass": "230гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/куриное филе.jpg", "Куряче філе"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/сир чеддер.jpg", "Сир"],
+      ["img/ingredients/forRoll/zelenyy-luk.jpg", "Зелена цибуля"]
+    ]
+  },
+  {
+    "rating": 9,
+    "category": 0,
+    "title": "Антильський рол",
+    "imageLink": "img/roll/antilskiy.png",
+    "price": 189,
+    "mass": "210гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/kunjut.jpg", "Кунжут"],
+      ["img/ingredients/forRoll/куриное филе.jpg", "Куряче філе"],
+      ["img/ingredients/forRoll/tobico.jpg", "Ікра тобіко"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/ukrop.jpg", "Кріп"],
+      ["img/ingredients/forRoll/печень трески.jpg", "Печінка тріски"],
+      ["img/ingredients/forRoll/криль.jpg", "М'ясо криля"]
+    ]
+  },
+  {
+    "rating": 3,
+    "category": 0,
+    "title": "Санрайз рол",
+    "imageLink": "img/roll/sunrise.png",
+    "price": 169,
+    "mass": "270гр.",
+    "photo": [
+      ["img/ingredients/forRoll/nori.jpg", "Норі"],
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/krivetka.jpg", "Тигрова креветка"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"],
+      ["img/ingredients/forRoll/salat.jpg", "Листя салату"],
+      ["img/ingredients/forRoll/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forRoll/zelenyy-luk.jpg", "Зелена цибуля"]
+    ]
+  },
+
+  {
+    "rating": 4,
+    "category": 1,
+    "title": "Суші сяке",
+    "imageLink": "img/sushi/syake.png",
+    "price": 53,
+    "mass": "35гр.",
+    "photo": [
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"]
+    ]
+  },
+  {
+    "rating": 3,
+    "category": 1,
+    "title": "Суші спайсі сяке",
+    "imageLink": "img/sushi/spicy-syake.png",
+    "price": 48,
+    "mass": "40гр.",
+    "photo": [
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/spajsi.jpg", "Соус спайсі"],
+      ["img/ingredients/forRoll/losos.jpg", "Лосось"]
+    ]
+  },
+  {
+    "rating": 2,
+    "category": 1,
+    "title": "Суші спайсі магуро",
+    "imageLink": "img/sushi/spicy-maguro.png",
+    "price": 45,
+    "mass": "40гр.",
+    "photo": [
+      ["img/ingredients/forRoll/ris.png", "Рис"],
+      ["img/ingredients/forRoll/spajsi.jpg", "Соус спайсі"],
+      ["img/ingredients/forRoll/tunec.png", "Тунець"]
+    ]
+  },
+
+  {
+    "rating": 5,
+    "category": 2,
+    "title": "Аристократ сет",
+    "imageLink": "img/set/aristocrat.jpg",
+    "price": 1497,
+    "mass": "2395гр.",
+    "photo": [
+      ["img/roll/Калифорния.jpg", "Каліфорнія"],
+      ["img/roll/alabama.png", "Алабама"],
+      ["img/roll/drakon.png", "Дракон рол"],
+      ["img/roll/mexicanskiy.png", "Мексиканський рол"],
+      ["img/roll/obama.png", "Обама рол"],
+      ["img/roll/yanki.png", "Янкі рол"],
+      ["img/roll/hiyashi-unagi.png", "Хуяші Унагі"],
+      ["img/roll/filadelfia-combo.png", "Філадельфія Комбо рол"],
+      ["img/roll/macao.png", "Макао рол"],
+      ["img/roll/unagi-laguna.png", "Унагі Лагуна"]
+    ]
+  },
+  {
+    "rating": 8,
+    "category": 2,
+    "title": "Канарський сет",
+    "imageLink": "img/set/kanarskiy-set.png",
+    "price": 759,
+    "mass": "1130гр.",
+    "photo": [
+      ["img/roll/drakon.png", "Дракон рол"],
+      ["img/roll/Калифорния.jpg", "Каліфорнія"],
+      ["img/roll/coralloviy.png", "Кораловий рол"],
+      ["img/roll/obama.png", "Обама рол"],
+      ["img/roll/macao.png", "Макао рол"]
+    ]
+  },
+  {
+    "rating": 9,
+    "category": 2,
+    "title": "Карибський сет",
+    "imageLink": "img/set/caribskiy-set.png",
+    "price": 559,
+    "mass": "895гр.",
+    "photo": [
+      ["img/roll/sonata.png", "Соната рол"],
+      ["img/roll/rio.png", "Ріо"],
+      ["img/roll/macao.png", "Макао рол"],
+      ["img/roll/montana.png", "Монтана рол"]
+    ]
+  },
+  {
+    "rating": 2,
+    "category": 2,
+    "title": "Сицилійський сет",
+    "imageLink": "img/set/siciliyskiy-set.png",
+    "price": 1288,
+    "mass": "1930гр.",
+    "photo": [
+      ["img/roll/drakon.png", "Дракон рол"],
+      ["img/roll/yanki.png", "Янкі рол"],
+      ["img/roll/filadelphia.jpg", "Філадельфія"],
+      ["img/roll/grinvich.png", "Грінвіч"],
+      ["img/roll/macao.png", "Макао рол"],
+      ["img/roll/unagi-laguna.png", "Унагі Лагуна"]
+    ]
+  },
+  {
+    "rating": 10,
+    "category": 2,
+    "title": "Темпура сет",
+    "imageLink": "img/set/tempura-set.png",
+    "price": 459,
+    "mass": "1030гр.",
+    "photo": [
+      ["img/roll/granada.png", "Гранада"],
+      ["img/roll/chicken-hot.png", "Чікен Хот"],
+      ["img/roll/djingl.png", "Джингл"],
+      ["img/roll/sevilya.png", "Севілья рол"],
+      ["img/roll/tokio.png", "Токіо рол"]
+    ]
+  },
+  {
+    "rating": 7,
+    "category": 2,
+    "title": "Дракон сет",
+    "imageLink": "img/set/drakon-set.png",
+    "price": 1389,
+    "mass": "1430гр.",
+    "photo": [
+      ["img/sushi/spicy-syake.png", "Суші Спайсі Сяке"],
+      ["img/sushi/spicy-unagi.png", "Суші Спайсі Унагі"],
+      ["img/roll/drakon-unagi.png", "Дракон Унагі"],
+      ["img/roll/Калифорния.jpg", "Каліфорнія"],
+      ["img/roll/filadelphia.jpg", "Філадельфія"],
+      ["img/roll/unagi-laguna.png", "Унагі Лагуна"]
+    ]
+  },
+  {
+    "rating": 11,
+    "category": 2,
+    "title": "Унагі сет",
+    "imageLink": "img/set/unagi-set.png",
+    "price": 599,
+    "mass": "765гр.",
+    "photo": [
+      ["img/roll/drakon-unagi.png", "Дракон Унагі"],
+      ["img/roll/Калифорния.jpg", "Каліфорнія"],
+      ["img/roll/filadelphia.jpg", "Філадельфія"]
+    ]
+  },
+  {
+    "rating": 7,
+    "category": 2,
+    "title": "Лас-Вегас",
+    "imageLink": "img/set/las-vegas-set.png",
+    "price": 1131,
+    "mass": "1510гр.",
+    "photo": [
+      ["img/roll/drakon-unagi.png", "Дракон Унагі"],
+      ["img/roll/Калифорния.jpg", "Каліфорнія"],
+      ["img/roll/комбоРолл.jpg", "Комбо рол"],
+      ["img/roll/filadelphia.jpg", "Філадельфія"],
+      ["img/roll/maori.png", "Маорі рол"]
+    ]
+  },
+
+  {
+    "rating": 7,
+    "category": 3,
+    "title": "Локшина фунчоза з куркою",
+    "imageLink": "img/noodles/steklyannaya-kurica.png",
+    "price": 121,
+    "mass": "400гр.",
+    "photo": [
+      ["img/ingredients/forNoodles/arahis.png", "Арахіс"],
+      ["img/ingredients/forNoodles/chesnok.jpg", "Часник"],
+      ["img/ingredients/forNoodles/champignons-weiss.jpg", "Печериці"],
+      ["img/ingredients/forNoodles/brokkoli.jpg", "Брокколі"],
+      ["img/ingredients/forNoodles/kukuruza.jpg", "Кукурудза"],
+      ["img/ingredients/forNoodles/morkov.jpg", "Морква"],
+      ["img/ingredients/forNoodles/luk_rep.jpg", "Цибуля ріпчаста"],
+      ["img/ingredients/forNoodles/куриное филе.jpg", "Куряче філе"],
+      ["img/ingredients/forNoodles/Фрунчоза.jpg", "Фунчоза"],
+      ["img/ingredients/forNoodles/vershiki.jpg", "Вершки"],
+      ["img/ingredients/forNoodles/cukini.jpg", "Цукіні"],
+      ["img/ingredients/forNoodles/boby.png", "Боби едамаме"]
+    ]
+  },
+  {
+    "rating": 10,
+    "category": 3,
+    "title": "Локшина фунчоза з грибами шиїтаки під вершковим соусом",
+    "imageLink": "img/noodles/steklyannaya-shiitake.png",
+    "price": 145,
+    "mass": "300гр.",
+    "photo": [
+      ["img/ingredients/forNoodles/filadelfia.jpg", "М'який сир"],
+      ["img/ingredients/forNoodles/morkov.jpg", "Морква"],
+      ["img/ingredients/forNoodles/luk_rep.jpg", "Цибуля ріпчаста"],
+      ["img/ingredients/forNoodles/Фрунчоза.jpg", "Фунчоза"],
+      ["img/ingredients/forNoodles/vershiki.jpg", "Вершки"],
+      ["img/ingredients/forNoodles/perec_bolgar.jpg", "Болгарський перець"],
+      ["img/ingredients/forNoodles/shiitakejpg.jpg", "Шиїтаке"],
+      ["img/ingredients/forNoodles/грецький горіх.jpg", "Грецький горіх"]
+    ]
+  },
+  {
+    "rating": 8,
+    "category": 3,
+    "title": "Локшина фунчоза з морепродуктами",
+    "imageLink": "img/noodles/steklyannaya-moreprodukty.png",
+    "price": 187,
+    "mass": "400гр.",
+    "photo": [
+      ["img/ingredients/forNoodles/cukini.jpg", "Цукіні"],
+      ["img/ingredients/forNoodles/chesnok.jpg", "Часник"],
+      ["img/ingredients/forNoodles/champignons-weiss.jpg", "Печериці"],
+      ["img/ingredients/forNoodles/brokkoli.jpg", "Брокколі"],
+      ["img/ingredients/forNoodles/losos.jpg", "Лосось"],
+      ["img/ingredients/forNoodles/kukuruza.jpg", "Кукурудза"],
+      ["img/ingredients/forNoodles/morkov.jpg", "Морква"],
+      ["img/ingredients/forNoodles/kalmar.jpg", "Кальмар"],
+      ["img/ingredients/forNoodles/luk_rep.jpg", "Цибуля ріпчаста"],
+      ["img/ingredients/forNoodles/Фрунчоза.jpg", "Фунчоза"],
+      ["img/ingredients/forNoodles/vershiki.jpg", "Вершки"],
+      ["img/ingredients/forNoodles/boby.png", "Боби едамаме"],
+      ["img/ingredients/forNoodles/midii.jpg", "Мідії"]
+    ]
+  },
+
+  {
+    "rating": 8,
+    "category": 4,
+    "title": "Pepsi",
+    "imageLink": "img/drink/pepsi.png",
+    "price": 35,
+    "mass": "1л.",
+    "photo": []
+  },
+  {
+    "rating": 3,
+    "category": 4,
+    "title": "7 UP",
+    "imageLink": "img/drink/7up.png",
+    "price": 30,
+    "mass": "1л.",
+    "photo": []
+  },
+  {
+    "rating": 9,
+    "category": 4,
+    "title": "Mirinda",
+    "imageLink": "img/drink/mirinda.png",
+    "price": 35,
+    "mass": "1л.",
+    "photo": []
+  }
+]
